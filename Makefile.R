@@ -5,7 +5,7 @@
 ###########
 
 # Set working directory
-setwd("C:/Harry/Data_Science/SMU/MSDS_6306_4033/Week10/20160725_case2")
+setwd("C:/Harry/Data_Science/SMU/MSDS_6306_4033/Week10/CaseStudy_2/ModularVersion")
 
 # Load the required libraries and respected packages
 source("loadlibpkg.R")
